@@ -20,7 +20,6 @@ int numberOfCandidates;
 char studentVotes[200];
 
 
-//To extract year from userID -- For example, userID:2018btecs00064 year:2018
 int extractYear(char userID[15])
 {
     int year=0;
