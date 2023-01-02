@@ -4,6 +4,7 @@
 #include<stdlib.h>
 
 struct currentValidID{
+	int a;
     int year;
     char branch[6];
     int totalVoters;
